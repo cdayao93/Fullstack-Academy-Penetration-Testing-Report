@@ -1,4 +1,5 @@
 # Fullstack-Academy-Penetration-Testing-Report
+Fun Red Team exercise 
 
 During our cohort I was tasked with a Red Team Penetration test scenario. I have attached the report for your review. Below describes the parameters of the pentration test. 
 
